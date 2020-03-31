@@ -5,4 +5,5 @@
 * [第一章：基础知识之K线篇](kxian.md)
 * [第二章：基础知识之趋势线篇](qushixian.md)
 * [第三章：基础知识之MA篇](maxian.md)
+* [第四章：基础知识之其他指标篇](qi-ta-zhi-biao-pian.md)
 
