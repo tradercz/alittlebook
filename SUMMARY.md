@@ -7,4 +7,7 @@
 * [第三章：基础知识之MA篇](maxian.md)
 * [第四章：基础知识之Fib篇](fibonaccipian.md)
 * [第五章：基础知识之其他指标篇](qi-ta-zhi-biao-pian.md)
+* [第六章：高级技术之周期](zhou-qi.md)
+* [第七章：高级技术之跟庄原理](gen-zhuang-yuan-li.md)
+* [第八章：高级技术之2B形态](di-ba-zhang-gao-ji-ji-shu-zhi-2b-xing-tai.md)
 
