@@ -12,7 +12,7 @@
 * [第八章：高级技术之牛熊周期](zhou-qi.md)
 * [第九章：高级技术之跟庄操作](gen-zhuang-cao-zuo.md)
 * [第十章：高级技术之2B法则](di-ba-zhang-gao-ji-ji-shu-zhi-2b-xing-tai.md)
-* [第十一章：高级技术之三重滤网](san-zhong-lv-wang.md)
+* [第十一章：高级技术之短线操作](san-zhong-lv-wang.md)
 * [第十二章：技术虽好，不可贪杯](bu-ke-tan-bei.md)
 * [第十三章：投资策略之心态管理](xin-tai-guan-li.md)
 * [第十四章：投资策略之仓位管理](cang-wei-guan-li.md)
