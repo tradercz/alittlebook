@@ -23,7 +23,7 @@ Email：cunzhang90@gmail.com
 
 那么加入我的VIP小组吧，这里不仅注重交易理念的培养，更注重实战训练。
 
-![&#x5FAE;&#x4FE1;&#x626B;&#x732B;&#x4E8C;&#x7EF4;&#x7801;&#xFF0C;&#x67E5;&#x770B;&#x300E;VIP&#x5C0F;&#x7EC4;&#x300F;&#x5C0F;&#x7EC4;&#x8BE6;&#x60C5;](.gitbook/assets/qrcode_for_gh_39de1c0e9b83_258.jpg)
+![&#x4F60;&#x7528;&#x5FAE;&#x4FE1;&#x626B;&#x732B;&#x4E0A;&#x65B9;&#x4E8C;&#x7EF4;&#x7801;&#xFF0C;&#x5C31;&#x53EF;&#x4EE5;&#x8FDB;&#x5165;&#x300E;VIP&#x5C0F;&#x7EC4;&#x300F;&#x4E86;](.gitbook/assets/qrcode_for_gh_39de1c0e9b83_258.jpg)
 
 ## 本书的内容
 
