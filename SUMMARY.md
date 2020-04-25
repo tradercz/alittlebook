@@ -16,4 +16,5 @@
 * [第十二章：技术虽好，不可贪杯](bu-ke-tan-bei.md)
 * [第十三章：投资策略之心态管理](xin-tai-guan-li.md)
 * [第十四章：投资策略之仓位管理](cang-wei-guan-li.md)
+* [第十五章：我的交易秘诀](di-shi-wu-zhang-wo-de-jiao-yi-mi-jue.md)
 
