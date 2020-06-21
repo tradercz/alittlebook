@@ -23,7 +23,7 @@ Email：cunzhang90@gmail.com
 
 那么加入我的圈子吧，这里不仅注重交易理念的培养，更注重实战训练。
 
-![&#x4F60;&#x7528;&#x5FAE;&#x4FE1;&#x626B;&#x732B;&#x4E0A;&#x65B9;&#x4E8C;&#x7EF4;&#x7801;&#xFF0C;&#x5173;&#x6CE8;&#x516C;&#x4F17;&#x53F7;&#xFF0C;&#x5C31;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;&#x5E95;&#x90E8;&#x83DC;&#x5355;&#x300E;&#x6700;&#x65B0;&#x64CD;&#x4F5C;&#x300F;&#x8FDB;&#x5165;&#x6211;&#x7684;&#x5708;&#x5B50;&#x4E86;&#x3002;](.gitbook/assets/qrcode_for_gh_39de1c0e9b83_258.jpg)
+![&#x4F60;&#x7528;&#x5FAE;&#x4FE1;&#x626B;&#x732B;&#x4E0A;&#x65B9;&#x4E8C;&#x7EF4;&#x7801;&#xFF0C;&#x5173;&#x6CE8;&#x516C;&#x4F17;&#x53F7;&#xFF0C;&#x5C31;&#x53EF;&#x4EE5;&#x901A;&#x8FC7;&#x5E95;&#x90E8;&#x83DC;&#x5355;&#x300E;VIP&#x7B56;&#x7565;&#x300F;&#x8FDB;&#x5165;&#x6211;&#x7684;&#x5708;&#x5B50;&#x4E86;&#x3002;](.gitbook/assets/qrcode_for_gh_39de1c0e9b83_258.jpg)
 
 ## 本书的内容
 
